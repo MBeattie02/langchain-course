@@ -1,0 +1,24 @@
+# Minimal ignores tailored to this repo
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Local virtual environments
+.venv/
+venv/
+env/
+hello-world/.venv/
+
+# OS files
+.DS_Store
+
+# IDE settings
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+
+.env
