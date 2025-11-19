@@ -22,3 +22,6 @@ hello-world/.venv/
 
 
 .env
+
+langgraph-agentic-rag/.chroma
+langgraph-agentic-rag/.claude
